@@ -15,11 +15,11 @@
     <img src="https://img.icons8.com/fluent/48/000000/youtube-play.png"/>
   </a>
   <a href="mailto:20110246@student.hcmute.edu.vn" alt="Email">
-    <img src="https://img.icons8.com/fluent/48/000000/mailing.png"/>
+    <img src="https://img.icons8.com/fluent/48/000000/mailing.png"/ target="_blank" />
   </a>
-   </a> 
 </p>
-##
+
+## Skills:
 <table style="width:100%;">
   <tr>
     <td>
@@ -45,6 +45,8 @@
     </td>
   </tr>
 </table>
+
 ## Certificates:
+![image](https://user-images.githubusercontent.com/103420884/174532658-a4014a63-11b1-40e3-95d4-1e4ce02fcc21.png)
 
 
