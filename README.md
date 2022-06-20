@@ -16,7 +16,7 @@
   </a>
    </a> 
   <a href="https://www.instagram.com/_htdi_18/" alt="Instagram" target="_blank" >
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png"/>
+    <img src="https://img.icons8.com/cute-clipart/344/instagram-new.png"/>
   </a>
 </p>
 
