@@ -15,9 +15,6 @@
     <img src="https://img.icons8.com/fluent/48/000000/mailing.png"/>
   </a>
    </a> 
-  <a href="https://www.instagram.com/_htdi_18/" alt="Instagram" target="_blank" >
-    <img src="https://img.icons8.com/cute-clipart/344/instagram-new.png"/>
-  </a>
 </p>
 
 
