@@ -1,12 +1,8 @@
-<h1 align="center">Hi 👋, I'm Minh Tien</h1>
-<p align="center"><img src="https://img.icons8.com/color/48/000000/vietnam-circular.png"/></p>
-<h3 align="center">A passionate developer from Vietnam </h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=tiennhm" alt="tiennhm" /> <img src="https://badges.pufler.dev/repos/TienNHM" alt="tiennhm" /> </p>
-
+<h1 align="center">Welcom my GIT 👋, I'm Di Huynh</h1>
+<p align="center"><img src="[https://img.icons8.com/color/48/000000/vietnam-circular.png](https://pmo.hcmute.edu.vn/?ArticleId=e0cd252d-1952-4612-9536-d09abea725f7)"/></p>
 - ✍ I'm a student of: [Ho Chi Minh city University of Technology and Education](https://hcmute.edu.vn) (HCMUTE).
 
 - 🌱 I’m currently learning **MERN Stack.**
-
 
 ## 📫 How to reach me:
 
