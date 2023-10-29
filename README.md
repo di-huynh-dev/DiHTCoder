@@ -1,6 +1,6 @@
 <h1 align="center">Welcom to my GIT👋, I'm Di Huynh</h1>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=dihtcoder" alt="dihtcoder" />  </p>
-<p align="center"><img src="https://thptquocgia.org/wp-content/uploads/2021/09/dai-hoc-spkt-tphcm.jpg"/></p>
+<p align="center"><img src="[https://thptquocgia.org/wp-content/uploads/2021/09/dai-hoc-spkt-tphcm.jpg](https://nienlich.vn/Userfiles/Upload/images/309029473_819241772825135_7321420649589543852_n.jpg)"/></p>
 
 ✍ I'm a student of: [Ho Chi Minh city University of Technology and Education](https://hcmute.edu.vn) (HCMUTE).
 
